@@ -17,7 +17,7 @@
   - Email: **<1078249029@qq.com>**
 
 [RT-Thread]: https://github.com/RT-Thread/rt-thread
-[wumingzi.top]: https://hakula.xyz](https://wumingzi.top
+[wumingzi.top]: https://wumingzi.top
 
 ## Stats
 
